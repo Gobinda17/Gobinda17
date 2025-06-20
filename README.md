@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Gobinda Deb
 
-<!--
-**Gobinda17/Gobinda17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Front-End Developer | 🛠️ Full-Stack MERN Explorer | 🧬 System Design & Monorepo Enthusiast  
+📍 Based in Guwahati, Assam, India — Building robust & scalable web systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- 💻 **Languages:** JavaScript (ES6+), PHP, Python  
+- ⚙️ **Frameworks/Libraries:** React, Node.js, Express, Laravel, Tailwind CSS  
+- 🗃️ **Database:** MongoDB, MySQL  
+- 🧪 **Tools:** Git, Postman, WebSockets, Docker (learning), Redis (exploring)  
+- 🏗️ **Architecture:** MERN Stack, Monorepo design, LLD/HLD, JWT-based auth systems
+
+---
+
+### 🌱 Currently Learning
+- Real-time systems with WebSockets  
+- Scalable backend architecture  
+- Efficient MongoDB design patterns  
+- Clean, modular mono repo structuring
+
+---
+
+### 🔍 Interests
+- 🏛️ Ancient Civilizations (Egypt & India)  
+- 📚 Philosophy, Space Science, Systems Thinking  
+- 🎮 Strategy Games & Simulation
+
+---
+
+### 📫 Connect with Me
+- GitHub: [github.com/Gobinda17](https://github.com/Gobinda17)
